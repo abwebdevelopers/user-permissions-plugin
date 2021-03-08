@@ -1,0 +1,17 @@
+{
+    "name": "abwebdevelopers/oc-user-permissions-plugin",
+    "description": "User Permissions for October CMS",
+    "type": "october-plugin",
+    "keywords": ["october", "cms", "image", "resize", "resizing", "plugin"],
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Joakim Ö",
+            "homepage": "https://github.com/joakimbo"
+        }
+    ],
+    "require": {
+        "php": ">=7.0",
+        "composer/installers": "~1.0"
+    }
+}
