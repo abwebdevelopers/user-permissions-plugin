@@ -2,7 +2,7 @@
     "name": "abwebdevelopers/oc-user-permissions-plugin",
     "description": "User Permissions for October CMS",
     "type": "october-plugin",
-    "keywords": ["october", "cms", "image", "resize", "resizing", "plugin"],
+    "keywords": ["october", "cms", "user", "permissions", "rainlab", "plugin"],
     "license": "MIT",
     "authors": [
         {
